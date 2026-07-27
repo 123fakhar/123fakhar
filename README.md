@@ -6,16 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fakhar Alamgir GitHub Stats" />
-    
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=radical&hide_border=true" alt="GitHub Streak" />
-    
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🚀 Professional Summary
@@ -70,6 +60,20 @@ _Python • LLM Agents • Vultr Serverless Inference_
 ### **Maternal Health Risk Assessment (Research)**
 _Python • Deep Learning • SHAP • Integrated Gradients_
 *   Developed a hybrid choice–deep learning model (~79% accuracy, F1 > 0.82) with SHAP, attention, and Integrated Gradients for transparent, clinically actionable risk explanations.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fakhar Alamgir GitHub Stats" />
+    
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=radical&hide_border=true" alt="GitHub Streak" />
+    
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 

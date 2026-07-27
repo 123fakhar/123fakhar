@@ -2,18 +2,18 @@
 
 <p align="center">
   <a href="https://github.com/123fakhar">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%26%20Researcher;Machine%20Learning%20Expert;NLP%20%26%20Deep%20Learning;Agentic%20AI%20Systems&center=true&size=27&duration=3000&color=00BFFF&font=monospace&width=600" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%26%20Researcher;ML%20Expert;NLP%20%26%20Deep%20Learning;Agentic%20AI%20Systems&center=true&size=27&duration=3000&color=00BFFF&font=monospace&width=800&height=50" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fakhar Alamgir GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fakhar Alamgir GitHub Stats" />
     
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=radical&hide_border=true" alt="GitHub Streak" />
     
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---

@@ -107,8 +107,13 @@ _Python • NLTK • Pandas_
     
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=radical&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
-    
+</p>
 
+---
+
+## 💻 Top Languages
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" alt="Top Languages" />
 </p>
 

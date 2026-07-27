@@ -6,11 +6,21 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fakhar Alamgir GitHub Stats" />
+    
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=dark&hide_border=true" alt="GitHub Streak" />
+    
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 ## 🚀 Professional Summary
 
-I am an accomplished **AI Engineer and Artificial Intelligence undergraduate (CGPA 3.97/4.00 )** with a strong track record of leading AI engineering initiatives, building production-facing ML/NLP systems, and founding an AI automation startup. Currently, I serve as an **AI Engineer Manager at Seagulls Communications**, where I manage a live RTB (real-time bidding/dispatch) portal and lead a team of AI engineers. As the **Co-founder and CEO of PakForge**, an AI automation startup, I've driven company vision, product strategy, and market direction, even representing Pakistan at the RAISE Summit international hackathon. My expertise spans Python, machine learning, deep learning, explainable AI (XAI), agentic pipelines, and end-to-end model development, consistently translating research into deployed, business-relevant AI solutions.
+I am an accomplished **AI Engineer and Artificial Intelligence undergraduate (CGPA 3.97/4.00 )** with a strong track record of leading AI engineering initiatives, building production-facing ML/NLP systems, and founding an AI automation startup. Currently, I serve as an **AI Engineer Manager at Seagulls Communications**, where I manage a live RTB (real-time bidding/dispatch) portal and lead a team of AI engineers. As the **Co-founder and CEO of PakForge**, an AI automation startup, I've driven company vision, product strategy, and market direction, even representing Pakistan at the RAISE Summit international hackathon. My expertise spans Python, machine learning, deep learning, explainable AI (XAI), **Agentic AI pipelines**, and end-to-end model development, consistently translating research into deployed, business-relevant AI solutions.
 
 ---
 
@@ -34,7 +44,7 @@ _Jul 2026 – Present_
 | Category | Skills |
 | :------- | :----- |
 | **Programming Languages** | Python, Java, C++ |
-| **Machine Learning & AI** | Scikit-learn, Supervised & Unsupervised Learning, Classification, Regression, K-Means Clustering, SMOTE, Feature Engineering, Model Evaluation, Agentic AI Pipelines, LLM Integration |
+| **Machine Learning & AI** | Scikit-learn, Supervised & Unsupervised Learning, Classification, Regression, K-Means Clustering, SMOTE, Feature Engineering, Model Evaluation, **Agentic AI Pipelines**, LLM Integration |
 | **Deep Learning & XAI** | Deep Learning, SHAP, Attention Mechanisms, Integrated Gradients, Explainable AI |
 | **NLP** | NLTK, Text Preprocessing, Tokenization, Intent Matching, Chatbot Development |
 | **Data Analysis & Visualization** | Pandas, NumPy, Matplotlib, Seaborn |
@@ -46,8 +56,8 @@ _Jul 2026 – Present_
 
 *   Maintained a **3.97/4.00 CGPA** in B.S. Artificial Intelligence at NUML, ranking among top performers.
 *   **Co-founded and lead PakForge as CEO**, an AI automation startup targeting legal ops and call center workflow automation.
-*   Represented Pakistan at the **RAISE Summit International Hackathon (Vultr track)** with an agentic enterprise decision-investigation system.
-*   Independently developed **6+ end-to-end ML and NLP projects** spanning classification, clustering, fraud detection, healthcare analytics, and agentic AI.
+*   Represented Pakistan at the **RAISE Summit International Hackathon (Vultr track)** with an **Agentic enterprise decision-investigation system**.
+*   Independently developed **6+ end-to-end ML and NLP projects** spanning classification, clustering, fraud detection, healthcare analytics, and **Agentic AI**.
 
 ---
 
@@ -55,21 +65,11 @@ _Jul 2026 – Present_
 
 ### **DecisionForge — Agentic Enterprise Decision Investigator**
 _Python • LLM Agents • Vultr Serverless Inference_
-*   Built a multi-stage agentic pipeline with structured retrieval chaining, deterministic confidence scoring, and dual output artifacts (ticket + plain-English memo).
+*   Built a multi-stage **Agentic pipeline** with structured retrieval chaining, deterministic confidence scoring, and dual output artifacts (ticket + plain-English memo).
 
 ### **Maternal Health Risk Assessment (Research)**
 _Python • Deep Learning • SHAP • Integrated Gradients_
 *   Developed a hybrid choice–deep learning model (~79% accuracy, F1 > 0.82) with SHAP, attention, and Integrated Gradients for transparent, clinically actionable risk explanations.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Fakhar Alamgir GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 

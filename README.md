@@ -39,10 +39,6 @@ _Apr 2026 – Present_
 _Feb 2026 – Mar 2026_
 *   Applied supervised and unsupervised learning techniques to real-world datasets; received an achievement letter for performance.
 
-### **Campus Ambassador** | Talent Beacon
-_Remote_
-*   Promoted AI and technology-focused workshops and executed outreach campaigns to drive student participation and event registrations.
-
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -55,7 +51,6 @@ _Remote_
 | **NLP** | NLTK, Text Preprocessing, Tokenization, Intent Matching, Chatbot Development |
 | **Data Analysis & Visualization** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Cloud & Infrastructure** | Vultr Serverless Inference, Git, GitHub, Jupyter Notebook, VS Code, Kaggle |
-| **Leadership & Management** | Team Leadership, Cross-functional Collaboration, Stakeholder Management, Startup Operations, Product Strategy |
 
 ---
 
@@ -97,6 +92,23 @@ _Python • Scikit-learn • Matplotlib • Seaborn_
 ### **FAQ Chatbot (NLP)**
 _Python • NLTK • Pandas_
 *   Developed an intelligent FAQ chatbot using text preprocessing, tokenization, and intent-based matching to automate responses and improve user interaction efficiency.
+
+---
+
+## 📊 Coding Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=123fakhar&theme=radical&hide_border=true&area=true" width="100%" alt="Fakhar Alamgir Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fakhar Alamgir GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 

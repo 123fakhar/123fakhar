@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/123fakhar">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%26%20Researcher;Machine%20Learning%20Engineer;NLP%20%26%20Deep%20Learning%20Specialist;Agentic%20AI%20Systems%20Developer&center=true&size=27&duration=3000&color=00BFFF&font=monospace" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%26%20Researcher;Machine%20Learning%20Expert;NLP%20%26%20Deep%20Learning;Agentic%20AI%20Systems&center=true&size=27&duration=3000&color=00BFFF&font=monospace&width=600" alt="Typing SVG" />
   </a>
 </p>
 

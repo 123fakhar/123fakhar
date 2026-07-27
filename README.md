@@ -27,6 +27,22 @@ _Jul 2026 – Present_
 *   Co-founded and lead PakForge, an AI automation startup delivering AI-driven solutions for legal operations and call center / RTB workflow automation.
 *   Set company vision, product strategy, and go-to-market direction, and led public brand-building efforts.
 
+### **Machine Learning Intern** | FlyRank (Remote)
+_Jun 2026 – Present_
+*   Applied machine learning techniques to real-world data analysis and modeling tasks in an agile team environment.
+
+### **AI Intern** | Kodex Byte (Remote)
+_Apr 2026 – Present_
+*   Built AI-driven projects spanning ML model development, data analysis, and intelligent system design.
+
+### **Machine Learning Intern** | Elevvo Pathways (Remote)
+_Feb 2026 – Mar 2026_
+*   Applied supervised and unsupervised learning techniques to real-world datasets; received an achievement letter for performance.
+
+### **Campus Ambassador** | Talent Beacon
+_Remote_
+*   Promoted AI and technology-focused workshops and executed outreach campaigns to drive student participation and event registrations.
+
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -39,6 +55,7 @@ _Jul 2026 – Present_
 | **NLP** | NLTK, Text Preprocessing, Tokenization, Intent Matching, Chatbot Development |
 | **Data Analysis & Visualization** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Cloud & Infrastructure** | Vultr Serverless Inference, Git, GitHub, Jupyter Notebook, VS Code, Kaggle |
+| **Leadership & Management** | Team Leadership, Cross-functional Collaboration, Stakeholder Management, Startup Operations, Product Strategy |
 
 ---
 
@@ -61,18 +78,38 @@ _Python • LLM Agents • Vultr Serverless Inference_
 _Python • Deep Learning • SHAP • Integrated Gradients_
 *   Developed a hybrid choice–deep learning model (~79% accuracy, F1 > 0.82) with SHAP, attention, and Integrated Gradients for transparent, clinically actionable risk explanations.
 
+### **Credit Card Fraud Detection**
+_Python • Scikit-learn • Imbalanced-learn • SMOTE_
+*   Designed a fraud detection system using Logistic Regression and KNN; addressed class imbalance with SMOTE oversampling, evaluated via ROC-AUC, Precision, Recall, and F1-Score.
+
+### **Heart Disease Prediction System**
+_Python • Scikit-learn • Pandas • NumPy_
+*   Built a predictive healthcare model to identify heart disease risk from clinical data, benchmarking multiple classification algorithms.
+
+### **Loan Approval Prediction**
+_Python • Scikit-learn • Pandas • NumPy_
+*   Designed an ML classification model predicting loan approval decisions using feature engineering and selection, evaluated via Accuracy, Precision, Recall, and F1-Score.
+
+### **Customer Segmentation via K-Means Clustering**
+_Python • Scikit-learn • Matplotlib • Seaborn_
+*   Applied K-Means clustering to segment customers by purchasing behavior, using the Elbow Method to determine optimal cluster count for targeted marketing insights.
+
+### **FAQ Chatbot (NLP)**
+_Python • NLTK • Pandas_
+*   Developed an intelligent FAQ chatbot using text preprocessing, tokenization, and intent-based matching to automate responses and improve user interaction efficiency.
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fakhar Alamgir GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=3600" alt="Fakhar Alamgir GitHub Stats" />
     
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=radical&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
     
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" alt="Top Languages" />
 </p>
 
 ---

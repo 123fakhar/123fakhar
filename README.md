@@ -103,10 +103,10 @@ _Python • NLTK • Pandas_
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=3600" alt="Fakhar Alamgir GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fakhar Alamgir GitHub Stats" />
     
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=radical&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=123fakhar&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -114,7 +114,7 @@ _Python • NLTK • Pandas_
 ## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---

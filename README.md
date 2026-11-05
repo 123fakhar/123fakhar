@@ -1,62 +1,174 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/123fakhar/123fakhar/main/assets/header.svg" width="100%" alt="Header" /> </p> <p align="center"> <a href="https://github.com/123fakhar"> <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%26%20Researcher;ML%20Expert;NLP%20%26%20Deep%20Learning;Agentic%20AI%20Systems&center=true&size=27&duration=3000&color=00BFFF&font=monospace&width=800&height=50" alt="Typing SVG" /> </a> </p>
-<h2 align="center"><img src="https://raw.githubusercontent.com/123fakhar/123fakhar/main/assets/headings/summary.svg" alt="Professional Summary" /></h2>
+# Hey, I'm Fakhar Alamgir 👋
 
-I am an accomplished AI Engineer and Artificial Intelligence undergraduate (CGPA 3.97/4.00) with a strong track record of leading AI engineering initiatives, building production-facing ML/NLP systems, and founding an AI automation startup. Currently, I serve as an AI Engineer Manager at Seagulls Communications, where I manage a live RTB (real-time bidding/dispatch) portal and lead a team of AI engineers. As the Co-founder and CEO of PakForge, an AI automation startup, I've driven company vision, product strategy, and market direction, even representing Pakistan at the RAISE Summit international hackathon. My expertise spans Python, machine learning, deep learning, explainable AI (XAI), Agentic AI pipelines, and end-to-end model development, consistently translating research into deployed, business-relevant AI solutions.
+### AI Engineer · LLM & Agentic AI · Researcher · Founder
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/123fakhar/123fakhar/main/assets/headings/experience.svg" alt="Experience" /></h2>
-AI Engineer Manager | Seagulls Communications
+I build intelligent systems that move beyond experimentation — from machine learning models and research prototypes to agentic workflows and production-facing applications.
 
-Jul 2026 – Present
+Currently exploring the intersection of **LLM Engineering, Agentic AI, applied machine learning, and intelligent automation.**
 
-Managed and oversaw a live RTB (real-time bidding/dispatch) portal across multiple operating centers, ensuring uptime and data accuracy.
-Led a team of AI engineers, defining technical roadmaps, code standards, and delivery timelines for AI-driven products.
-Directed model development, deployment, and monitoring workflows, bridging engineering with business stakeholders.
-Co-Founder & CEO | PakForge
+- Building AI-powered products at **PakForge**
+- Working on production operations and engineering systems at **Seagulls Media Solutions**
+- Researching Deep Learning and Network Intrusion Detection
+- Exploring LLMs, RAG, multi-agent architectures, and reliable AI systems
 
-Jul 2026 – Present
+[LinkedIn](https://linkedin.com/in/fakhar-alamgir-a69724322) · [GitHub](https://github.com/123fakhar) · [Email](mailto:fakharalamgir333@gmail.com)
 
-Co-founded and lead PakForge, an AI automation startup delivering AI-driven solutions for legal operations and call center / RTB workflow automation.
-Set company vision, product strategy, and go-to-market direction, and led public brand-building efforts.
-<h2 align="center"><img src="https://raw.githubusercontent.com/123fakhar/123fakhar/main/assets/headings/skills.svg" alt="Tech Stack & Skills" /></h2> <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="Scikit-learn" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="Tailwind CSS" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" /> </p>
-Category	Skills
-Programming Languages	Python, Java, C++
-Machine Learning & AI	Scikit-learn, Supervised & Unsupervised Learning, Classification, Regression, K-Means Clustering, SMOTE, Feature Engineering, Model Evaluation, Agentic AI Pipelines, LLM Integration
-Deep Learning & XAI	Deep Learning, SHAP, Attention Mechanisms, Integrated Gradients, Explainable AI
-NLP	NLTK, Text Preprocessing, Tokenization, Intent Matching, Chatbot Development
-Web Development	Next.js, TypeScript, Tailwind CSS, Framer Motion
-Data Analysis & Visualization	Pandas, NumPy, Matplotlib, Seaborn
-Cloud & Infrastructure	Vultr Serverless Inference, Git, GitHub, Jupyter Notebook, VS Code, Kaggle
-<h2 align="center"><img src="https://raw.githubusercontent.com/123fakhar/123fakhar/main/assets/headings/achievements.svg" alt="Key Achievements" /></h2>
-Maintained a 3.97/4.00 CGPA in B.S. Artificial Intelligence at NUML, ranking among top performers.
-Co-founded and lead PakForge as CEO, an AI automation startup targeting legal ops and call center workflow automation.
-Represented Pakistan at the RAISE Summit International Hackathon (Vultr track) with an Agentic enterprise decision-investigation system.
-Independently developed 6+ end-to-end ML and NLP projects spanning classification, healthcare analytics, NLP, and Agentic AI.
-<h2 align="center"><img src="https://raw.githubusercontent.com/123fakhar/123fakhar/main/assets/headings/projects.svg" alt="Featured Projects" /></h2>
-DecisionForge — Agentic Enterprise Decision Investigator
+---
 
-Python • LLM Agents • Vultr Serverless Inference
+## About Me
 
-Built a multi-stage Agentic pipeline with structured retrieval chaining, deterministic confidence scoring, and dual output artifacts (ticket + plain-English memo).
-RTB Dispatch Portal — Live Production System
+I'm an Artificial Intelligence undergraduate with a **3.97/4.00 CGPA**, passionate about engineering practical AI systems and understanding the research behind them.
 
-Real-Time Bidding • Dispatch • Multi-Center Operations
+My work spans several areas:
 
-Manage a live RTB (real-time bidding/dispatch) portal running in production across two operating centers, owning uptime, data accuracy, and day-to-day operations.
-Lead the AI engineering team responsible for the portal's roadmap, deployment, and monitoring, working directly with business stakeholders.
-Seagulls Media Solutions — B2B Marketing Website
+- **LLM Engineering:** Retrieval-Augmented Generation, tool calling, agentic workflows, and LLM application development.
+- **Machine Learning:** Classification, regression, clustering, feature engineering, and model evaluation.
+- **Deep Learning & Research:** Neural networks, explainability, and intrusion detection research.
+- **AI Automation:** Designing intelligent workflows that connect models, APIs, and real-world business processes.
+- **Software Engineering:** Python, FastAPI, Next.js, TypeScript, and production-oriented development.
 
-Next.js 14 • TypeScript • Tailwind CSS • Framer Motion
+I enjoy taking a problem from an initial idea to a working technical solution.
 
-Designed and built a performance-marketing website serving advertisers and publishers across insurance, finance, home services, education, and health verticals.
-Implemented an animated analytics-style hero, smooth page transitions, and a navy/gold design system focused on a professional, buyer-facing look.
-Maternal Health Risk Assessment (Research)
+## What I'm Working On
 
-Python • Deep Learning • SHAP • Integrated Gradients
+| Area | Focus |
+|---|---|
+| LLM Engineering | RAG, LangChain, LangGraph, MCP, tool calling |
+| Agentic AI | Multi-agent systems, orchestration, autonomous workflows |
+| Applied AI | Machine learning, deep learning, explainable AI |
+| Research | Deep learning-based network intrusion detection |
+| Engineering | FastAPI, Docker, APIs, databases, deployment |
+| Emerging Interests | Embodied AI and robotics |
 
-Developed a hybrid choice–deep learning model (~79% accuracy, F1 > 0.82) with SHAP, attention, and Integrated Gradients for transparent, clinically actionable risk explanations.
-FAQ Chatbot (NLP)
+## Experience
 
-Python • NLTK • Pandas
+**AI Operations Manager — Seagulls Media Solutions, LLC**  
+*Jul 2026 – Present*
 
-Developed an intelligent FAQ chatbot using text preprocessing, tokenization, and intent-based matching to automate responses and improve user interaction efficiency.
-<h2 align="center"><img src="https://raw.githubusercontent.com/123fakhar/123fakhar/main/assets/headings/connect.svg" alt="Connect & Collaborate" /></h2> <p align="center"> <a href="https://linkedin.com/in/fakhar-alamgir-a69724322"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/123fakhar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="mailto:fakharalamgir333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=123fakhar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/123fakhar/123fakhar/main/assets/footer.svg" width="100%" alt="Footer" /> </p>
+- Overseeing engineering operations for a live Real-Time Bidding (RTB) and dispatch platform.
+- Working across full-stack development, backend services, integrations, and automation.
+- Managing production workflows, system reliability, and operational improvements.
+
+**Co-Founder & CEO — PakForge**  
+*Jul 2026 – Present*
+
+- Co-founded an AI automation startup focused on intelligent business workflows.
+- Driving product vision, technical direction, and strategic development.
+- Exploring AI solutions for legal operations and call-center automation.
+
+**Research Assistant — Deep Learning & Network Intrusion Detection**  
+*Jun 2025 – Present*
+
+- Exploring deep learning approaches for network intrusion detection.
+- Working with WSN-DS and UNSW-NB15 datasets.
+- Investigating model performance across balanced and imbalanced datasets.
+
+## Featured Projects
+
+### 01. DecisionForge
+**Agentic Enterprise Decision Investigator**
+
+`Python` `LLM Agents` `Vultr Serverless Inference`
+
+- Developed a multi-stage agentic pipeline for investigating enterprise decisions.
+- Implemented structured retrieval, deterministic confidence scoring, and decision analysis.
+- Generated two outputs: structured investigation tickets and plain-English decision memos.
+
+### 02. RTB Dispatch Platform
+**Production Real-Time Bidding & Dispatch System**
+
+`Python` `FastAPI` `Next.js` `PostgreSQL` `Docker`
+
+- Working on a production-facing RTB platform serving multiple operating centers.
+- Developing integrations, dispatch workflows, and backend infrastructure.
+- Focused on operational reliability, data accuracy, and scalable system architecture.
+
+### 03. Maternal Health Risk Prediction
+**Explainable Machine Learning for Healthcare**
+
+`Python` `Scikit-learn` `XGBoost` `SMOTE` `SHAP`
+
+- Developed a machine learning pipeline for maternal health risk classification.
+- Improved baseline performance using class balancing and model optimization.
+- Achieved approximately **84.7% accuracy** and **0.852 macro F1-score**.
+- Applied SHAP to improve model interpretability.
+
+### 04. Brain Tumor Detection
+**Deep Learning-Based Medical Image Classification**
+
+`Python` `YOLOv8` `Flask`
+
+- Developed a YOLOv8-based model for brain tumor detection and localization.
+- Worked with four categories: Glioma, Meningioma, Pituitary, and No Tumor.
+- Built a Flask application for model inference.
+
+### 05. FAQ Chatbot
+**NLP-Based Question Answering**
+
+`Python` `NLTK` `TF-IDF` `Flask`
+
+- Built an intent-based FAQ chatbot using text preprocessing and tokenization.
+- Implemented similarity-based question matching for automated responses.
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**LLM & Backend Engineering**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend & Tools**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Achievements
+
+- Maintained a **3.97/4.00 CGPA** in Artificial Intelligence.
+- Co-founded **PakForge**, an AI automation startup.
+- Selected among international teams for the **RAISE Summit 2026** in Paris.
+- Represented the team in the Vultr track with an agentic enterprise decision-investigation system.
+- Developed multiple end-to-end projects across machine learning, deep learning, NLP, and AI applications.
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=123fakhar&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
+<p align="center">
+  <b>Building intelligent systems. Exploring what's next.</b>
+  <br/>
+  Let's connect and build something meaningful.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/fakhar-alamgir-a69724322">LinkedIn</a> ·
+  <a href="mailto:fakharalamgir333@gmail.com">Email</a>
+</p>

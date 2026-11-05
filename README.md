@@ -1,174 +1,225 @@
-# Hey, I'm Fakhar Alamgir 👋
+<!-- PROFILE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090E1A,50:101F38,100:00D9FF&text=Fakhar%20Alamgir&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=Building%20Intelligent%20Systems%20%7C%20Engineering%20the%20Future&descAlignY=65&descSize=16" width="100%" />
+</p>
 
-### AI Engineer · LLM & Agentic AI · Researcher · Founder
+<!-- ANIMATED PROFESSIONAL HEADLINE -->
+<p align="center">
+  <a href="https://github.com/123fakhar">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=850&height=60&lines=AI+Operations+Manager;AI+Engineer+%26+Researcher;LLM+%26+Agentic+AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Researcher;AI+Automation+Architect" alt="Professional Typing Animation" />
+  </a>
+</p>
 
-I build intelligent systems that move beyond experimentation — from machine learning models and research prototypes to agentic workflows and production-facing applications.
-
-Currently exploring the intersection of **LLM Engineering, Agentic AI, applied machine learning, and intelligent automation.**
-
-- Building AI-powered products at **PakForge**
-- Working on production operations and engineering systems at **Seagulls Media Solutions**
-- Researching Deep Learning and Network Intrusion Detection
-- Exploring LLMs, RAG, multi-agent architectures, and reliable AI systems
-
-[LinkedIn](https://linkedin.com/in/fakhar-alamgir-a69724322) · [GitHub](https://github.com/123fakhar) · [Email](mailto:fakharalamgir333@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/fakhar-alamgir-a69724322">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/123fakhar">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:fakharalamgir333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## About Me
+## `01` — About Me
 
-I'm an Artificial Intelligence undergraduate with a **3.97/4.00 CGPA**, passionate about engineering practical AI systems and understanding the research behind them.
+I'm an Artificial Intelligence undergraduate, AI engineer, and entrepreneur passionate about building intelligent systems that solve real-world problems.
 
-My work spans several areas:
+With a **3.97/4.00 CGPA**, I combine academic foundations in AI with hands-on experience in production engineering, machine learning, research, and AI-driven automation.
 
-- **LLM Engineering:** Retrieval-Augmented Generation, tool calling, agentic workflows, and LLM application development.
-- **Machine Learning:** Classification, regression, clustering, feature engineering, and model evaluation.
-- **Deep Learning & Research:** Neural networks, explainability, and intrusion detection research.
-- **AI Automation:** Designing intelligent workflows that connect models, APIs, and real-world business processes.
-- **Software Engineering:** Python, FastAPI, Next.js, TypeScript, and production-oriented development.
+Currently, I serve as **AI Operations Manager at Seagulls Media Solutions, LLC**, where I work across production systems, engineering operations, backend infrastructure, and automation.
 
-I enjoy taking a problem from an initial idea to a working technical solution.
+I'm also the **Co-Founder & CEO of PakForge**, an AI automation startup focused on intelligent business solutions.
 
-## What I'm Working On
+My current technical focus is on:
 
-| Area | Focus |
-|---|---|
-| LLM Engineering | RAG, LangChain, LangGraph, MCP, tool calling |
-| Agentic AI | Multi-agent systems, orchestration, autonomous workflows |
-| Applied AI | Machine learning, deep learning, explainable AI |
-| Research | Deep learning-based network intrusion detection |
-| Engineering | FastAPI, Docker, APIs, databases, deployment |
-| Emerging Interests | Embodied AI and robotics |
+- **LLM Engineering:** RAG, LLM applications, structured outputs, and tool calling.
+- **Agentic AI:** Multi-agent systems, LangGraph, LangChain, MCP, and workflow orchestration.
+- **Applied AI:** Machine learning, deep learning, and explainable AI.
+- **AI Engineering:** FastAPI, Docker, APIs, vector databases, and production deployment.
+- **Research:** Deep learning-based network intrusion detection and reliable AI systems.
 
-## Experience
+I enjoy working at the intersection of research, engineering, and entrepreneurship — turning ideas into functional intelligent products.
 
-**AI Operations Manager — Seagulls Media Solutions, LLC**  
-*Jul 2026 – Present*
+---
 
-- Overseeing engineering operations for a live Real-Time Bidding (RTB) and dispatch platform.
-- Working across full-stack development, backend services, integrations, and automation.
-- Managing production workflows, system reliability, and operational improvements.
+## `02` — Professional Experience
 
-**Co-Founder & CEO — PakForge**  
-*Jul 2026 – Present*
+### AI Operations Manager
+**Seagulls Media Solutions, LLC**
 
-- Co-founded an AI automation startup focused on intelligent business workflows.
-- Driving product vision, technical direction, and strategic development.
-- Exploring AI solutions for legal operations and call-center automation.
+`Jul 2026 – Present`
 
-**Research Assistant — Deep Learning & Network Intrusion Detection**  
-*Jun 2025 – Present*
+- Managing engineering operations for a live Real-Time Bidding (RTB) and dispatch platform.
+- Overseeing production workflows, system reliability, and data accuracy across operating centers.
+- Working across full-stack development, backend infrastructure, API integrations, and automation.
+- Coordinating technical execution, engineering priorities, and operational improvements.
 
-- Exploring deep learning approaches for network intrusion detection.
+### Co-Founder & CEO
+**PakForge**
+
+`Jul 2026 – Present`
+
+- Co-founded an AI automation startup focused on intelligent business solutions.
+- Leading company vision, product strategy, and technical direction.
+- Exploring AI-driven solutions for legal operations and call-center automation.
+- Driving product development and strategic growth.
+
+### Research Assistant — Deep Learning & Network Intrusion Detection
+**National University of Modern Languages (NUML)**
+
+`Jun 2025 – Present`
+
+- Researching deep learning approaches for network intrusion detection.
 - Working with WSN-DS and UNSW-NB15 datasets.
-- Investigating model performance across balanced and imbalanced datasets.
+- Investigating classification performance under balanced and imbalanced data distributions.
+- Exploring model evaluation and optimization techniques for network security applications.
 
-## Featured Projects
+---
+
+## `03` — Featured Projects
 
 ### 01. DecisionForge
 **Agentic Enterprise Decision Investigator**
 
 `Python` `LLM Agents` `Vultr Serverless Inference`
 
-- Developed a multi-stage agentic pipeline for investigating enterprise decisions.
-- Implemented structured retrieval, deterministic confidence scoring, and decision analysis.
-- Generated two outputs: structured investigation tickets and plain-English decision memos.
+- Developed a multi-stage agentic pipeline for enterprise decision investigation.
+- Implemented structured retrieval chaining and deterministic confidence scoring.
+- Generated dual output artifacts: structured investigation tickets and plain-English decision memos.
+- Explored agentic reasoning for enterprise decision-support workflows.
 
 ### 02. RTB Dispatch Platform
 **Production Real-Time Bidding & Dispatch System**
 
 `Python` `FastAPI` `Next.js` `PostgreSQL` `Docker`
 
-- Working on a production-facing RTB platform serving multiple operating centers.
-- Developing integrations, dispatch workflows, and backend infrastructure.
-- Focused on operational reliability, data accuracy, and scalable system architecture.
+- Working on a production-facing RTB platform supporting multiple operating centers.
+- Developing backend services, integrations, and dispatch workflows.
+- Handling operational reliability, data accuracy, and system improvements.
+- Contributing to the engineering and management of the platform.
 
-### 03. Maternal Health Risk Prediction
+### 03. Maternal Health Risk Assessment
 **Explainable Machine Learning for Healthcare**
 
-`Python` `Scikit-learn` `XGBoost` `SMOTE` `SHAP`
+`Python` `XGBoost` `SMOTE` `SHAP`
 
-- Developed a machine learning pipeline for maternal health risk classification.
-- Improved baseline performance using class balancing and model optimization.
+- Developed a maternal health risk classification pipeline.
+- Improved baseline performance through class balancing and model optimization.
 - Achieved approximately **84.7% accuracy** and **0.852 macro F1-score**.
-- Applied SHAP to improve model interpretability.
+- Applied SHAP for interpretable model predictions.
 
 ### 04. Brain Tumor Detection
-**Deep Learning-Based Medical Image Classification**
+**Deep Learning-Based Medical Image Detection**
 
 `Python` `YOLOv8` `Flask`
 
 - Developed a YOLOv8-based model for brain tumor detection and localization.
 - Worked with four categories: Glioma, Meningioma, Pituitary, and No Tumor.
+- Trained the model for 50 epochs at 640 image resolution.
 - Built a Flask application for model inference.
 
 ### 05. FAQ Chatbot
-**NLP-Based Question Answering**
+**NLP-Based Intelligent Question Answering**
 
 `Python` `NLTK` `TF-IDF` `Flask`
 
-- Built an intent-based FAQ chatbot using text preprocessing and tokenization.
-- Implemented similarity-based question matching for automated responses.
+- Developed an FAQ chatbot using text preprocessing and tokenization.
+- Implemented intent-based matching to identify relevant questions.
+- Integrated automated response generation through a Flask application.
 
-## Tech Stack
+---
 
-**Languages**
+## `04` — Technical Arsenal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### Programming Languages
 
-**AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript" />
+</p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+### Artificial Intelligence & Machine Learning
 
-**LLM & Backend Engineering**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+`Machine Learning` · `Deep Learning` · `XGBoost` · `SHAP` · `Pandas` · `NumPy` · `Matplotlib` · `NLP`
 
-**Frontend & Tools**
+### LLM & Agentic AI
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+`LLM Engineering` · `RAG` · `LangChain` · `LangGraph` · `MCP` · `Tool Calling` · `Multi-Agent Systems` · `AI Workflow Automation`
 
-## Achievements
+### Backend & Infrastructure
 
-- Maintained a **3.97/4.00 CGPA** in Artificial Intelligence.
-- Co-founded **PakForge**, an AI automation startup.
-- Selected among international teams for the **RAISE Summit 2026** in Paris.
-- Represented the team in the Vultr track with an agentic enterprise decision-investigation system.
-- Developed multiple end-to-end projects across machine learning, deep learning, NLP, and AI applications.
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,linux,git,github" />
+</p>
 
-## GitHub Activity
+`REST APIs` · `Vector Databases` · `Model Deployment` · `API Integrations`
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
+</p>
+
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
+
+---
+
+## `05` — Achievements & Recognition
+
+- **Academic Excellence:** Maintained a 3.97/4.00 CGPA in Artificial Intelligence.
+- **Entrepreneurship:** Co-founded PakForge as an AI automation startup.
+- **International Recognition:** Selected among international teams for the RAISE Summit 2026 in Paris.
+- **AI Innovation:** Represented the team in the Vultr track with an agentic enterprise decision-investigation system.
+- **Research:** Contributing to deep learning research in network intrusion detection.
+- **Project Development:** Built multiple end-to-end applications across ML, NLP, deep learning, and AI automation.
+
+---
+
+## `06` — GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=123fakhar&theme=tokyonight&hide_border=true" width="70%" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=123fakhar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=123fakhar&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
 
+## `07` — Let's Connect
+
+I'm always interested in collaborating on AI engineering, LLM applications, agentic systems, research, and ambitious technology projects.
+
 <p align="center">
-  <b>Building intelligent systems. Exploring what's next.</b>
-  <br/>
-  Let's connect and build something meaningful.
+  <a href="https://linkedin.com/in/fakhar-alamgir-a69724322">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fakharalamgir333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/fakhar-alamgir-a69724322">LinkedIn</a> ·
-  <a href="mailto:fakharalamgir333@gmail.com">Email</a>
+  <img src="https://komarev.com/ghpvc/?username=123fakhar&label=Profile%20Views&color=00D9FF&style=flat-square" />
+</p>
+
+<p align="center">
+  <i>"Building intelligent systems. Turning ideas into impact."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:090E1A&height=100&section=footer" width="100%" />
 </p>

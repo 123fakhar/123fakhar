@@ -182,28 +182,7 @@ I enjoy working at the intersection of research, engineering, and entrepreneursh
 
 ---
 
-## 06 — GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=123fakhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123fakhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=123fakhar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=123fakhar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=123fakhar&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-## `07` — Let's Connect
+## `06` — Let's Connect
 
 I'm always interested in collaborating on AI engineering, LLM applications, agentic systems, research, and ambitious technology projects.
 
